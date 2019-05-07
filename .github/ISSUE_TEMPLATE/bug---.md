@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
--[ ] 我已经查阅所有过去的 issue 并没有发现重复。
+- [ ] 我已经查阅所有过去的 issue 并没有发现重复。
 
 **Describe the bug**
 A clear and concise description of what the bug is.
